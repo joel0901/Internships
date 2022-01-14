@@ -1,3 +1,3 @@
 # Day 1
 
-Day 1 - Introduction to C++
+Introduction to C++
