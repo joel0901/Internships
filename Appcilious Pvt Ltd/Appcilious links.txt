@@ -1,0 +1,15 @@
+https://github.com/as-ideas/ForwardTacotron
+
+https://colab.research.google.com/github/as-ideas/ForwardTacotron/blob/master/notebooks/synthesize.ipynb
+
+https://github.com/fatchord/WaveRNN
+
+https://github.com/jik876/hifi-gan
+
+https://github.com/TensorSpeech/TensorFlowTTS
+
+https://github.com/Rudrabha/Wav2Lip
+
+https://github.com/PaddlePaddle/PaddleGAN
+
+https://github.com/Markfryazino/wav2lip-hq/tree/066df62288d47073a8cecfec8c4c8391df16dae1
